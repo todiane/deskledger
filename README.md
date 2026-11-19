@@ -481,3 +481,5 @@ DeskLedger is provided "as is", without warranty of any kind. You download and u
 
 
 Maintained by [Diane Corriette](https://github.com/todiane)
+
+[Buy Me A Tea](https://thanks.dianecorriette.com/)
